@@ -1,0 +1,27 @@
+.weather {
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 20px;
+}
+
+.mainweather {
+    display: flex;
+}
+
+.weathercity {
+    text-align: center;
+}
+
+.temperature {
+    font-size: 3em;
+}
+
+.imgWeather {
+    height: 40px;
+    width: 40px;
+}
+
+.textWeather {
+    text-align: center;
+}

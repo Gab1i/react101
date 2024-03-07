@@ -1,0 +1,13 @@
+ 
+.btn {
+    border-radius: 5px;
+    color: white;
+    width: fit-content;
+    padding: 10px 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.btn:hover {
+
+}
